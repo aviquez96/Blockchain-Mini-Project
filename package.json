@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-mini-project",
+  "version": "1.0.0",
+  "description": "This is going to be a mini blockchain project to get a better understanding of how blockchains work",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviquez96/Blockchain-Mini-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviquez96/Blockchain-Mini-Project/issues"
+  },
+  "homepage": "https://github.com/aviquez96/Blockchain-Mini-Project#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "http": "0.0.0"
+  }
+}
